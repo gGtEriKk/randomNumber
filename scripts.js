@@ -11,7 +11,7 @@ function draw() {
     if (initialNumberInput.length === 0 || limitNumberInput.length === 0) {
         alert("Preencha todos os campos!")
     } else if (initialNumberInput >= limitNumberInput) {
-        alert("O número inicial deve ser menor que o número limite!")
+        alert("O número mínimo deve ser menor do que o número máximo")
     } else {
         const drawnNumber = Math.floor(Math.random() * (max - min + 1)) + min
 
