@@ -9,7 +9,7 @@ máximo</p>
 <b>Imagem ilustrativa de como ficou:</b>
 
 <div>
-    <img src="./assets/print-projeto.png" width="400px" height="600px"/>
+    <img src="./assets/print-projeto.png" width="600px" height="400px"/>
 </div>
 
 O que foi feito ✅:
