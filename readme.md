@@ -9,7 +9,7 @@ máximo</p>
 <b>Imagem ilustrativa de como ficou:</b>
 
 <div>
-    <img src="./assets/print-projeto.png" width="400px" height="400px"/>
+    <img src="./assets/print-projeto.png" width="400px" height="600px"/>
 </div>
 
 O que foi feito ✅:
@@ -35,7 +35,7 @@ O que falta fazer ⚙️:
   <tr>
     <td align="center">
       <a href="https://github.com/gGtEriKk">
-        <img src="./assets/Foto-de-perfil-do-GitHub.jpg" width=100px; alt="foto do perfil"><br>
+        <img src="./assets/perfil-github.jpg" width=100px; alt="foto do perfil"><br>
           <sub>
             <b>Erik Gomes</b>
           </sub>
