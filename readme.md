@@ -2,9 +2,13 @@
 
 <b>Descrição:</b>
 
-<p>Projeto de sorteador, onde é inserido um número mínimo e um número máximo
+<p>
+Projeto de sorteador, onde é inserido um número mínimo e um número máximo
 e, através de uma função aleatória, é escolhido um número entre o mínimo e o
-máximo</p>
+máximo. Foi adicionada uma verificação para que seja obrigatório preencher os inputs
+com os números e também para que o usuário preencha com um número menor, o mínimo e
+um maior, o máximo.
+</p>
 
 <b>Imagem ilustrativa de como ficou:</b>
 
@@ -18,7 +22,7 @@ O que foi feito ✅:
 - [x] - Utilização de JavaScript para interação com os elementos
 
 O que falta fazer ⚙️:
-- [ ] - Adicionar função que faça com que o npumero não se repita
+- [ ] - Adicionar função que faça com que o número não se repita
 - [ ] - Div para abrigar os números que forem saindo, como se fosse um sorteio de bingo
 - [ ] - No back, adicionar um array para abrigar os números que forem sorteados
 - [ ] - Responsividade
